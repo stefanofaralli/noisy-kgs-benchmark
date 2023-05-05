@@ -1,1 +1,1 @@
-# noisy-kgs-benchmark
+# Noisy KGS benchmark

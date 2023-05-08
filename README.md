@@ -4,31 +4,31 @@ Affiliation: Computer Science Department, Sapienza University of Rome, Rome, Ita
 Description: this is a repository for preserving, sharing and maintining a benchmark of Knowledge Grpah Emabedding-based link prediction, deletion and pruning systems with noisy data. 
 
 ## CODE AND DATA
-The code is directly accessible on this repository.  Due to the size, data (i.e., datasets, models, configurations, reports and results) are linked form this page to separated Web folders (google drive) accessible starting from <a href="https://drive.google.com/drive/folders/1h_B_0Kent6_F9j8xghKmgAejFF2vRyH-?usp=share_link">this google drive folder</a>
+The code is directly accessible on this repository.  Due to the size, data (i.e., datasets, models, configurations, reports and results) are linked form this page to separated Web folders (google drive) accessible starting from this google drive  <a href="https://drive.google.com/drive/folders/1h_B_0Kent6_F9j8xghKmgAejFF2vRyH-?usp=share_link">folder</a>.
 
 ## DATASETS
 
-The datasets are available <a href="https://drive.google.com/drive/folders/1VkPBBpiLptT3LJIzsUXMjxTtKUb_vbir?usp=share_link">here</a>.
+The datasets are available <a href="https://drive.google.com/drive/folders/19uCbXuMMIgJlMD5JTJAdg8odIsPycWDl?usp=share_link">here</a>.
 The folder contains:
 
 ## MODELS
 
-The trined models (in the form of ...) are available <a href="https://drive.google.com/drive/folders/1ly6t3i8ITzT_pxH9cg3Da8aXVx-odtFP?usp=share_link">here</a>. 
+The trined models (in the form of ...) are available <a href="https://drive.google.com/drive/folders/1VW3s2XTPz7AaUgjqYn9AbW9N1RqQETsk?usp=share_link">here</a>. 
 The folder contains:
 
 
 ## HYPERPARAMETERS TUNING CONFIGURATIONS
 
-The hyperparmeters tuning configurations are available <a href="https://drive.google.com/drive/folders/1ClX7M6PbAgxCLeZbBVjP1jwWyFaEXWiB?usp=share_link">here</a>.
+The hyperparmeters tuning configurations are available <a href="https://drive.google.com/drive/folders/11S3kD3Q2xLzyuobEVGK4tYV_ZjWvkLQn?usp=share_link">here</a>.
 The folder contains:
 
 
 ## REPORTS
-The reports? (Cosa sono?) are available <a href="https://drive.google.com/drive/folders/1zy0VyJXzL4vpIVju3p8SmSa33XOGQsbZ?usp=share_link">here</a>
+The reports? (Cosa sono?) are available <a href="https://drive.google.com/drive/folders/105h7Wc_JgBfKVCu7uKreBtDQ-U8FFlq-?usp=share_link">here</a>
 The folder contains:
 
 ## REUSLTS
-The results are available <a href="https://drive.google.com/drive/folders/1-NY77jtqSWJx_-csWVlWBeH-LFyZ3ili?usp=share_link">here</a>.
+The results are available <a href="https://drive.google.com/drive/folders/1m2KgYbSbMXM1VmC5snmuT9UFhH11MRO1?usp=share_link">here</a>.
 The folder contains:
 
 
@@ -38,26 +38,8 @@ To replicate the results ...
 
 
 # LICENSE
-Our code is licensed with a MIT License 
+Our code and data are licensed with a MIT License. 
 
-Copyright (c) 2019-2021 PyKEEN Project Team
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 

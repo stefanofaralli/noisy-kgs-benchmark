@@ -47,12 +47,12 @@ Our code and data are licensed with a MIT License.  (TODO: ADD LINK)
 Benchmark. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language
 Processing (EMNLP), pages 8328–8350, Online, November 2020. Association for Computational
 Linguistics. <br>
-  WNRR18: Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, and Sebastian Riedel. Convolutional 2d
+  <a href="https://github.com/TimDettmers/ConvE">WNRR18</a>: Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, and Sebastian Riedel. Convolutional 2d
 knowledge graph embeddings. In Proceedings of the Thirty-Second AAAI Conference on Artificial
 Intelligence and Thirtieth Innovative Applications of Artificial Intelligence Conference and Eighth
 AAAI Symposium on Educational Advances in Artificial Intelligence, AAAI’18/IAAI’18/EAAI’18.
 AAAI Press, 2018.<br>
-  FB15K-237: Kristina Toutanova and Danqi Chen. Observed versus latent features for knowledge base and
+  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=52312">FB15K-237</a>: Kristina Toutanova and Danqi Chen. Observed versus latent features for knowledge base and
 text inference. In 3rd Workshop on Continuous Vector Space Models and Their Compositionality.
 ACL - Association for Computational Linguistics, July 2015.<br>
 

@@ -1,7 +1,7 @@
 # A Comparative Study of Link Prediction and Deletion Methods in Knowledge Graphs
 Authors: Andrea Lenzi, Stefano Faralli, Paola Velardi<br>
 Affiliation: Computer Science Department, Sapienza University of Rome, Rome, Italy<br>
-Description: this is a repository for preserving, sharing and maintining a benchmark of Knowledge Grpah Emabedding-based link prediction, deletion and pruning systems with noisy data. <br>
+Description: this is a repository for preserving, sharing, and maintaining a benchmark of Knowledge Graph Emabedding-based link prediction, deletion, and pruning systems with noisy data.<br>
 
 ## CODE AND DATA
 The code is directly accessible on this repository.  Due to the size, data (i.e., datasets, models, configurations, reports and results) are linked form this page to separated Web folders (google drive) accessible starting from this google drive  <a href="https://drive.google.com/drive/folders/1h_B_0Kent6_F9j8xghKmgAejFF2vRyH-?usp=share_link">folder</a>.

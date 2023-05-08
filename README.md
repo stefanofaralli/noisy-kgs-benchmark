@@ -1,5 +1,7 @@
 # A Comparative Study of Link Prediction and Deletion Methods in Knowledge Graphs
 
+CAMBIARE IL NOME DEL FOLDER 
+
 
 ## DATASETS
 
@@ -33,4 +35,5 @@ To replicate the results ...
 
 # LICENSE
 ci sono dei voncoli o possiamo andare con la CC 4.0 .. ?
+Data and code are released under Creative Commons Attribution 4.0 International  <a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0)<a>
 

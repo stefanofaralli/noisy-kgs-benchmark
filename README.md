@@ -43,7 +43,7 @@ Our code and data are licensed with a MIT License.  (TODO: ADD LINK)
 ## REFERENCES
 - Our code is based on <a href="https://github.com/pykeen/pykeen"> PyKEEN </a>.<br>
 - The dataset is built on top of the existing following datasets:<br>
-  CODEX small: Tara Safavi and Danai Koutra. CoDEx: A Comprehensive Knowledge Graph Completion
+  <a href="https://github.com/tsafavi/codex">CODEX small</a>: Tara Safavi and Danai Koutra. CoDEx: A Comprehensive Knowledge Graph Completion
 Benchmark. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language
 Processing (EMNLP), pages 8328–8350, Online, November 2020. Association for Computational
 Linguistics. <br>

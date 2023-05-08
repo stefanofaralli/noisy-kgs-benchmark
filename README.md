@@ -78,7 +78,7 @@ ACL - Association for Computational Linguistics, July 2015.<br>
             <a rel="dcat:distribution" href="https://drive.google.com/file/d/1i6ZkOsmymcXvfiEF3GgVok4yCr4lNTxV/view?usp=share_link"><span property="dcat:mediaType" content="application/tsv+zip">FB15K237.zip</span></a>
           </li>
               <li>
-            <a rel="dcat:distribution" href=" https://drive.google.com/file/d/1PNG9Sj0EF-EeT8eYzFcWWLI0EPr7KgfY/view?usp=share_link"><span property="dcat:mediaType" content="application/tsv+zip">CODEXSMALL.zip</span></a>
+            <a rel="dcat:distribution" href="https://drive.google.com/file/d/1PNG9Sj0EF-EeT8eYzFcWWLI0EPr7KgfY/view?usp=share_link"><span property="dcat:mediaType" content="application/tsv+zip">CODEXSMALL.zip</span></a>
           </li>
         </ul>
       </dd>

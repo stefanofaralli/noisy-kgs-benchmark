@@ -56,28 +56,29 @@ AAAI Press, 2018.<br>
 text inference. In 3rd Workshop on Continuous Vector Space Models and Their Compositionality.
 ACL - Association for Computational Linguistics, July 2015.<br>
 
-<article about="/node/1234" typeof="dcat:Dataset">
+## MICRODATA
+
+<article typeof="dcat:Dataset">
     <dl>
       <dt>Name:</dt>
-      <dd property="dc:title">ACME Inc Cash flow data</dd>
+      <dd property="dc:title">A Comparative Study of Link Prediction and Deletion Methods in Knowledge Graphs</dd>
       <dt>Identifiers:</dt>
-      <dd property="dc:identifier">https://doi.org/10.1000/182</dd>
-      <dd property="dc:identifier">https://identifiers.org/ark:/12345/fk1234</dd>
+      <dd property="dc:identifier">[https://doi.org/10.1000/182](https://github.com/stefanofaralli/noisy-kgs-benchmark)</dd>
       <dt>Description:</dt>
-      <dd property="dc:description">Financial Statements - Consolidated Statement of Cash Flows</dd>
+      <dd property="dc:description">benchmark of Knowledge Grpah Emabedding-based link prediction, deletion and pruning systems with noisy data</dd>
       <dt>Category:</dt>
-      <dd rel="dc:subject">Financial</dd>
+      <dd rel="dc:subject">Benchmark</dd>
       <dt class="field-label">Downloads:</dt>
       <dd>
         <ul>
           <li>
-            <a rel="dcat:distribution" href="Consolidated_Statement_of_Cash_Flows_en.csv"><span property="dcat:mediaType" content="text/csv" >Consolidated_Statement_of_Cash_Flows_en.csv</span></a>
+            <a rel="dcat:distribution" href="https://drive.google.com/file/d/1jqdLffdzJFeCGN2jD7Xt1qWGXyGn6o27/view?usp=share_link"><span property="dcat:mediaType" content="application/tsv+zip">WN18RR.zip</span></a>
           </li>
-         <li>
-            <a rel="dcat:distribution"  href="files/Consolidated_Statement_of_Cash_Flows_en.xls"><span property="dcat:mediaType" content="application/vnd.ms-excel">Consolidated_Statement_of_Cash_Flows_en.xls</span></a>
+            <li>
+            <a rel="dcat:distribution" href="https://drive.google.com/file/d/1i6ZkOsmymcXvfiEF3GgVok4yCr4lNTxV/view?usp=share_link"><span property="dcat:mediaType" content="application/tsv+zip">FB15K237.zip</span></a>
           </li>
-          <li>
-            <a rel="dcat:distribution"  href="files/consolidated_statement_of_cash_flows_en.xml"><span property="dcat:mediaType" content="application/xml">consolidated_statement_of_cash_flows_en.xml</span></a>
+              <li>
+            <a rel="dcat:distribution" href=" https://drive.google.com/file/d/1PNG9Sj0EF-EeT8eYzFcWWLI0EPr7KgfY/view?usp=share_link"><span property="dcat:mediaType" content="application/tsv+zip">CODEXSMALL.zip</span></a>
           </li>
         </ul>
       </dd>

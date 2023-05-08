@@ -13,7 +13,7 @@ The folder contains:
 
 ## MODELS
 
-The trined models (in the form of ...) are available <a href="https://drive.google.com/drive/folders/1VW3s2XTPz7AaUgjqYn9AbW9N1RqQETsk?usp=share_link">here</a>. 
+The trained models (in the form of ...) are available <a href="https://drive.google.com/drive/folders/1VW3s2XTPz7AaUgjqYn9AbW9N1RqQETsk?usp=share_link">here</a>. 
 The folder contains:
 
 

@@ -56,7 +56,7 @@ AAAI Press, 2018.<br>
 text inference. In 3rd Workshop on Continuous Vector Space Models and Their Compositionality.
 ACL - Association for Computational Linguistics, July 2015.<br>
 
-## METADA
+## METADATA
 the metadata for our benchmark are preserved and mantained at the following figshare <a href="https://figshare.com/articles/dataset/noisy-kgs-benchmark/22778945">page</a>
 
 

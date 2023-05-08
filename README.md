@@ -56,4 +56,20 @@ AAAI Press, 2018.<br>
 text inference. In 3rd Workshop on Continuous Vector Space Models and Their Compositionality.
 ACL - Association for Computational Linguistics, July 2015.<br>
 
-
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "name": "A Comparative Study of Link Prediction and Deletion Methods in Knowledge Graphs",
+  "description": "a benchmark of KGEs on noisy dataset",
+  "version": "1.0",
+  "license": "MIT License",
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "html",
+    "contentUrl": "https://github.com/stefanofaralli/noisy-kgs-benchmark"
+  },
+  "sourceOrganization": "Department of Computer Science, Sapienza University of Rome",
+  "datePublished": "2023-05-08"
+}
+</script>

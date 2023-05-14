@@ -106,8 +106,10 @@ PESSIMISTIC_STRATEGY = "pessimistic"
 
 
 # ==================== First Level Resources Folders ==================== #
-RESOURCES_DIR = os.path.join(os.environ['HOME'], "resources", "graph_pruning")
+resources_dir_tmp = os.path.join(os.environ['HOME'], "resources")
+create_non_existent_folder(folder_path=resources_dir_tmp)
 
+RESOURCES_DIR = os.path.join(resources_dir_tmp, "graph_pruning")
 create_non_existent_folder(folder_path=RESOURCES_DIR)
 
 DATASETS_DIR = os.path.join(RESOURCES_DIR, "datasets")
@@ -124,7 +126,6 @@ create_non_existent_folder(folder_path=TUNING_DIR)
 
 RESULTS_DIR = os.path.join(RESOURCES_DIR, "results")
 create_non_existent_folder(folder_path=RESULTS_DIR)
-
 # ======================================================================= #
 
 

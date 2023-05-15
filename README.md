@@ -50,8 +50,8 @@ The log files of hyperparameters tuning and training phases are available
 The results are available 
 <a href="https://drive.google.com/drive/folders/1m2KgYbSbMXM1VmC5snmuT9UFhH11MRO1?usp=share_link">here</a>.
 The folder contains for each dataset and for each task 
-(*Link Prediction*, *Link Deletion*, *Triple Classificatio*n) an excell report in *xlsx* format.
-This excell file shows the performance of the KGE models at different noise levels.
+(*Link Prediction*, *Link Deletion*, *Triple Classificatio*n) an Excel report in *xlsx* format.
+This Excel file shows the performance of the KGE models at different noise levels.
 
 
 ## REPLICABILITY
@@ -71,26 +71,25 @@ Basically, for each step we executed a dedicated Python script.
 
 
 ### Data Processing Scripts
-* ``src/scripts/dataset_exploration.py``
-* ``src/scripts/exporting_original_datasets_to_tsv_files.py``
-* ``src/scripts/exporting_random_datasets_to_tsv_files.py``
-* ``src/scripts/exporting_noisy_datasets_to_tsv_files.py``
+* ``src/scripts/exporting_original_datasets_to_tsv_files.py`` - export the original datasets in tsv format on File System.
+* ``src/scripts/exporting_random_datasets_to_tsv_files.py`` - export the random datasets for baseline in tsv format on File System.
+* ``src/scripts/exporting_noisy_datasets_to_tsv_files.py`` - export the datasets wih noise in tsv format on File System.
 
 ### Hyperparameters Tuning Script
-* ``src/scripts/hyperparams_tuning.py``
+* ``src/scripts/hyperparams_tuning.py`` - find the best hyperparameters configurations for the selected KGE models.
 
 ### Random Baseline Script
-* ``src/scripts/random_baseline.py``
+* ``src/scripts/random_baseline.py`` - train KGE models that will be random baselines on completely random datasets.
 
 ### Training Script
-* ``src/scripts/training.py``
+* ``src/scripts/training.py`` - train KGE models on original dataset and noise datasets.
 
 ### Evaluation Scripts
 * create the ``src/scripts/evaluation/dataset.ini`` configuration file, starting from 
-  the template file ``src/scripts/evaluation/dataset_local.ini``.
-* ``src/scripts/evaluation/link_prediction_performance.py``
-* ``src/scripts/evaluation/link_pruning_performance.py``
-* ``src/scripts/evaluation/triple_classification_performance.py``
+  the template file ``src/scripts/evaluation/dataset_local.ini`` (setting of task and dataset name).
+* ``src/scripts/evaluation/link_prediction_performance.py``- generate an Excel report with performance metrics for the Link Prediction task.
+* ``src/scripts/evaluation/link_pruning_performance.py``- generate an Excel report with performance metrics for the Link Deletion task.
+* ``src/scripts/evaluation/triple_classification_performance.py``- generate an Excel report with performance metrics for the Triple Classification task.
 
 
 

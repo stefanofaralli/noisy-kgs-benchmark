@@ -98,6 +98,22 @@ Our code and data are licensed with a [MIT License](LICENSE).
 
 
 ## REFERENCES
+
+* To cite our research paper:
+  Stefano Faralli, Andrea Lenzi, Paola Velardi (2023). A Benchmark Study on Knowledge Graphs Enrichment and Pruning Methods in the Presence of Noisy Relationships. Journal of Artificial Intelligence Research, 78, 37–68.  
+@article{Faralli2023,  
+  doi = {10.1613/jair.1.14494},  
+  url = {https://doi.org/10.1613/jair.1.14494},  
+  year = {2023},  
+  month = sep,  
+  publisher = {{AI} Access Foundation},  
+  volume = {78},  
+  pages = {37--68},  
+  author = {Stefano Faralli and Andrea Lenzi and Paola Velardi},  
+  title = {A Benchmark Study on Knowledge Graphs Enrichment and Pruning Methods in the Presence of Noisy Relationships},  
+  journal = {Journal of Artificial Intelligence Research}  
+}   
+
 * Our code is based on <a href="https://github.com/pykeen/pykeen">PyKEEN</a>. <br>
 
 * The dataset is built on top of the existing following datasets:
@@ -126,22 +142,7 @@ Our code and data are licensed with a [MIT License](LICENSE).
 the metadata for our benchmark are preserved and maintained at the following figshare 
 <a href="https://figshare.com/articles/dataset/noisy-kgs-benchmark/22778945">page</a>.
 
-## REFERENCES
-Stefano Faralli, Andrea Lenzi, Paola Velardi (2023). A Benchmark Study on Knowledge Graphs Enrichment and Pruning Methods in the Presence of Noisy Relationships. Journal of Artificial Intelligence Research, 78, 37–68.
 
-
-@article{Faralli2023,
-  doi = {10.1613/jair.1.14494},
-  url = {https://doi.org/10.1613/jair.1.14494},
-  year = {2023},
-  month = sep,
-  publisher = {{AI} Access Foundation},
-  volume = {78},
-  pages = {37--68},
-  author = {Stefano Faralli and Andrea Lenzi and Paola Velardi},
-  title = {A Benchmark Study on Knowledge Graphs Enrichment and Pruning Methods in the Presence of Noisy Relationships},
-  journal = {Journal of Artificial Intelligence Research}
-}
 
 
 

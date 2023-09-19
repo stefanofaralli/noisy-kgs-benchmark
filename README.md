@@ -129,6 +129,7 @@ the metadata for our benchmark are preserved and maintained at the following fig
 ## REFERENCES
 Stefano Faralli, Andrea Lenzi, Paola Velardi (2023). A Benchmark Study on Knowledge Graphs Enrichment and Pruning Methods in the Presence of Noisy Relationships. Journal of Artificial Intelligence Research, 78, 37–68.
 
+
 @article{Faralli2023,
   doi = {10.1613/jair.1.14494},
   url = {https://doi.org/10.1613/jair.1.14494},
